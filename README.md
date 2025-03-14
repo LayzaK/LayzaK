@@ -51,9 +51,9 @@
 
 ### 📫 How to reach me  
 
-- 📩 **Email:** your.email@example.com  
-- 🌎 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
+- 📩 **Email:** kermilynlay.@gmail.com  
+- 🌎 **LinkedIn:** [linkedin.com/in/meu-perfil](https://www.linkedin.com/in/layza-kermilyn-silva-santos-9aab1b260/) 
 
 ---
 
-🔥 Always learning and building cool projects! 🚀
+
