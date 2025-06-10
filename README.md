@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/mdfPpglf2c0QxED151/giphy.gif?cid=6c09b952jpstqd7pyxhdd29ht17ufjmo2xfj4hhpzqrbsezn&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-<p/>
 
 <h1 align="center"> 
   Hi there! I'm Layza 👋
