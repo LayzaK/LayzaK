@@ -37,7 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45px"/>
 </p>
 
----
 
 ### 📊 GitHub Stats  
 
@@ -46,8 +45,13 @@
 </p>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 📫 Connect with Me  
 
-- 📩 **Email:** kermilynlay@gmail.com  
-- 🌎 **LinkedIn:** [linkedin.com/in/layza-kermilyn-silva-santos-9aab1b260/](https://www.linkedin.com/in/layza-kermilyn-silva-santos-9aab1b260/)  
+[![Email](https://img.shields.io/badge/Email-kermilynlay%40gmail.com-6B2F2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kermilynlay@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Layza%20Kermilyn-6B2F2F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layza-kermilyn-silva-santos-9aab1b260/)  
